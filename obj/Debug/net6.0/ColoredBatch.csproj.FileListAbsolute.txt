@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\bin\Debug\net6.0\ColoredBatch.exe
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\bin\Debug\net6.0\ColoredBatch.deps.json
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\bin\Debug\net6.0\ColoredBatch.runtimeconfig.json
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\bin\Debug\net6.0\ColoredBatch.dll
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\bin\Debug\net6.0\ref\ColoredBatch.dll
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\bin\Debug\net6.0\ColoredBatch.pdb
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.dll
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ref\ColoredBatch.dll
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.pdb
+C:\Users\Lucas\source\repos\sudo\ColoredBatch\obj\Debug\net6.0\ColoredBatch.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ColoredBatch": {
+      "commandName": "Project",
+      "commandLineArgs": "write 11 9 hello",
+      "workingDirectory": "C:\\Users\\Lucas\\Desktop\\New folder (3)"
+    }
+  }
+}
